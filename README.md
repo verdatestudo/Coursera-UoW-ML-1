@@ -18,6 +18,7 @@ In subsequent courses, you will delve into the components of this black box by e
 Together, these pieces form the machine learning pipeline, which you will use in developing intelligent applications. 
 
 Learning Outcomes: 
+
 By the end of this course, you will be able to:
 
 * Identify potential applications of machine learning in practice.
